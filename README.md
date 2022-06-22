@@ -17,6 +17,7 @@ For github to use our code for training, but charging us, the price is too high,
 - Finally, upon your agreement, congratulations on your joining our organization
 
 ## contributions
+
 - [apisopen](https://github.com/apisopen) | [blog](https://github.com/freeCopilot/freeCopilot)
+- [haokejie](https://github.com/haokejie)
 - [@xream](https://github.com/xream) | [Telegram Channel](https://t.me/zhetengsha)
-- 
