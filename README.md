@@ -18,4 +18,5 @@ For github to use our code for training, but charging us, the price is too high,
 
 ## contributions
 - [apisopen](https://github.com/apisopen) | [blog](https://github.com/freeCopilot/freeCopilot)
+- [@xream](https://github.com/xream) | [Telegram Channel](https://t.me/zhetengsha)
 - 
